@@ -3,7 +3,7 @@ Contributors: nTechnology
 Donate link: http://www.ntechnology.pl/donate
 Tags: voice, text-to-speech, text to speech, nvoice
 Requires at least: 2.7
-Tested up to: 2.7
+Tested up to: 2.7.1
 Stable tag: 1.0
 
 Your post's in audio - The easiest way to create speech recordings.
